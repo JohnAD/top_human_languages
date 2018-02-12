@@ -1,0 +1,44 @@
+==Formula:
+
+The following 4 items, given the following weights for an average:
+
+    15% : native speaker count
+
+        Weights the list in favor of many fluent speakers.
+
+    50% : total speaker count
+
+        Weights the list in favor reaching people in general.
+
+    10% : web content
+
+        Weights the list in favor of where current web authors have felt
+           compelled to provide content to reach readers for a variety
+           of reasons.
+
+    25% : country per-capita PPP GDP
+       (where predominant language is fully assigned to country)
+
+        Weights the list in favor of the economic impact of the language.
+
+The list is sorted and then trimmed to match:
+
+    Top N%: top entries to reach N% of total speaker count
+    Top 50%: the list expanded to reach 50% of total speaker count
+
+
+==Primary Sources
+
+https://en.wikipedia.org/wiki/List_of_languages_by_number_of_native_speakers
+
+https://en.wikipedia.org/wiki/List_of_languages_by_total_number_of_speakers
+
+https://w3techs.com/technologies/overview/content_language/all
+
+https://en.wikipedia.org/wiki/List_of_countries_by_GDP_(PPP)_per_capita
+
+
+==Secondary non-technical checks:
+
+http://www.lei-lookup.com/#!summary
+   Of the top 50%, how many are covered by the language list
