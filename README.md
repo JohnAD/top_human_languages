@@ -46,7 +46,7 @@ Weighs the languages in favor of the number of native fluent speakers.
 
 ### 50% : total speaker count
 
-Weighs the languages in favor reaching the most people in general. So, this includes both native speakers and speakers who speak the language as a second language.
+Weighs the languages in favor reaching the most people in general. So, this includes both native speakers and speakers who speak the language as a second language. The "Percent of World Reached" number is from the total speaker count.
 
 ### 10% : web content
 
@@ -56,4 +56,8 @@ Weighs the languages in favor of web page language counts.
 
 Weighs the languages in favor of the economic impact of the language. Specifically, the relative purchasing power of the populations of speakers.
 
-Please not that while the numbers are from good sources, the 15%/50%/10%/25% distribution of the importance of those values is, admittedly, an arbitrary decision of the author. The spreadsheet is designed to make it easy to change that distribution if you would like to make your own TOP 3 and/or TOP 10 lists.
+## NOTE
+
+Please note that while the numbers are from good sources, the 15%/50%/10%/25% distribution of the importance of those values is an arbitrary decision of the author.
+
+The spreadsheet is designed to make it easy to change that distribution if you would like to make your own TOP 3 and/or TOP 10 list.
