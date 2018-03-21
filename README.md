@@ -4,55 +4,56 @@ When developing products or services that are destined for world-wide distributi
 
 So, which languages should be chosen?
 
-Ultimately, such a decision is very likely unique for each product or service. But this project and repository is designed to give you a starting point. A list of languages to support based on real-world numbers and a predictable formula, even if said formula has arbitrary weight given to it.
+Ultimately, such a decision is very likely unique for each product or service. But this project and repository is designed to give you a starting point. A list of languages to support based on real-world numbers and a predictable formula.
 
 To start with the results:
 
 ## TOP 3 LANGUAGES
 
-|Language | code |
-| --- | --- |
-|English   |  en|
-|Mandarin Chinese   |     zh|
-|Spanish   |  es|
+|Language | code | Percent of World Reached |
+| --- | --- | ---:|
+|English   |  en| 13% |
+|Mandarin Chinese   |     zh| 14% |
+|Spanish   |  es| 7% |
 
 
 ## TOP 10 LANGUAGES
 
-|Language | code |
-| --- | --- |
-|English   |  en|
-|Mandarin Chinese   |     zh|
-|Spanish   |  es|
-|Arabic    |  ar|
-|Hindi     |  hi|
-|Russian   |  ru|
-|Portuguese  |    pt|
-|French    |  fr|
-|Bengali   |  bn|
-|German    |  de|
-|Japanese   |     ja|
+|Language | code | Percent of World Reached |
+| --- | --- | ---:|
+|English   |  en| 13% |
+|Mandarin Chinese   |     zh| 14% |
+|Spanish   |  es| 7% |
+|Arabic    |  ar| 6% |
+|Hindi     |  hi| 6% |
+|Russian   |  ru| 4% |
+|Portuguese  |    pt| 3% |
+|French    |  fr| 3% |
+|Bengali   |  bn| 3% |
+|German    |  de| 2% |
+|Japanese   |     ja| 2% |
 
 
 ## THE DETAILS
 
 Most of the details are spelled out in the spreadsheet labeled `calculations.ods`.
 
-But, in general, four different weight are assigned to each language:
+But, in general, four different weights are assigned to each language. Those weights are then multiplied by relative impact.
 
 ### 15% : native speaker count
 
-Weighs the languages in favor of many fluent speakers.
+Weighs the languages in favor of the number of native fluent speakers.
 
 ### 50% : total speaker count
 
-Weighs the languages in favor reaching people in general. So, this includes both native speakers and speakers who speak the language as a second language.
+Weighs the languages in favor reaching the most people in general. So, this includes both native speakers and speakers who speak the language as a second language.
 
 ### 10% : web content
 
-Weighs the languages in favor of where current web authors have felt compelled to provide content to reach readers for a variety of reasons.
+Weighs the languages in favor of web page language counts.
 
 ### 25% : PPP GDP
 
-Weighs the languages in favor of the economic impact of the language.
+Weighs the languages in favor of the economic impact of the language. Specifically, the relative purchasing power of the populations of speakers.
 
+Please not that while the numbers are from good sources, the 15%/50%/10%/25% distribution of the importance of those values is, admittedly, an arbitrary decision of the author. The spreadsheet is designed to make it easy to change that distribution if you would like to make your own TOP 3 and/or TOP 10 lists.
