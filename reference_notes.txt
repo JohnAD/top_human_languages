@@ -35,8 +35,6 @@ https://en.wikipedia.org/wiki/List_of_languages_by_total_number_of_speakers
 
 https://w3techs.com/technologies/overview/content_language/all
 
-https://en.wikipedia.org/wiki/List_of_countries_by_GDP_(PPP)_per_capita
-
 
 ==Secondary non-technical checks:
 
