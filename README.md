@@ -10,28 +10,28 @@ To start with the results:
 
 ## TOP 3 LANGUAGES
 
-|Language | code | Percent of World Reached |
-| --- | --- | ---:|
-|English   |  en| 13% |
-|Mandarin Chinese   |     zh| 14% |
-|Spanish   |  es| 7% |
+|Language | code | Score | Percent of World Reached |
+| --- | --- | ---:| ---:|
+|English   |  en | 0.186 | 13% |
+|Mandarin Chinese   |     zh | 0.168 | 14% |
+|Spanish   |  es | 0.072 | 7% |
 
 
 ## TOP 10 LANGUAGES
 
-|Language | code | Percent of World Reached |
-| --- | --- | ---:|
-|English   |  en| 13% |
-|Mandarin Chinese   |     zh| 14% |
-|Spanish   |  es| 7% |
-|Arabic    |  ar| 6% |
-|Hindi     |  hi| 6% |
-|Russian   |  ru| 4% |
-|Portuguese  |    pt| 3% |
-|French    |  fr| 3% |
-|Bengali   |  bn| 3% |
-|German    |  de| 2% |
-|Japanese   |     ja| 2% |
+|Language | code | Score | Percent of World Reached |
+| --- | --- | ---:| ---:|
+|English   |  en | 0.186 | 13% |
+|Mandarin Chinese   |     zh | 0.168 | 14% |
+|Spanish   |  es | 0.072 | 7% |
+|Arabic    |  ar | 0.055 | 6% |
+|Hindi     |  hi | 0.055 | 6% |
+|Russian   |  ru | 0.041 | 4% |
+|Portuguese  |   pt | 0.033 | 3% |
+|French    |  fr | 0.030 | 3% |
+|Bengali   |  bn | 0.030 | 3% |
+|German    |  de | 0.029 | 2% |
+|Japanese   |  ja | 0.026 | 2% |
 
 
 ## THE DETAILS
