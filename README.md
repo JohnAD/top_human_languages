@@ -17,7 +17,7 @@ To start with the results:
 |Spanish   |  es | 0.072 | 7% |
 
 
-## TOP 10 LANGUAGES
+## TOP 11 LANGUAGES
 
 |Language | code | Score | Percent of World Reached |
 | --- | --- | ---:| ---:|
@@ -60,4 +60,4 @@ Weighs the languages in favor of the economic impact of the language. Specifical
 
 Please note that while the numbers are from good sources, the 15%/50%/10%/25% distribution of the importance of those values is an arbitrary decision of the author.
 
-The spreadsheet is designed to make it easy to change that distribution if you would like to make your own TOP 3 and/or TOP 10 list.
+The spreadsheet is designed to make it easy to change that distribution if you would like to make your own TOP 3 and/or TOP 11 list.
